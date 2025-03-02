@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"6a5b1152e6e7ec62","type":"group","x":-1597,"y":-1065,"width":290,"height":496,"label":"Origins"},
+		{"id":"2bf5d70093e772b4","type":"text","text":"# Midnight  Age","x":-1287,"y":-1045,"width":250,"height":460},
+		{"id":"37a0ba24d416a3d2","type":"text","text":"# Dawning  Age","x":-1287,"y":-585,"width":250,"height":480},
+		{"id":"904f58648955f2e9","type":"text","text":"# Blood Age","x":-1287,"y":-105,"width":250,"height":440},
+		{"id":"7e4f319c4722b522","type":"text","text":"# Mystic Age","x":-1287,"y":335,"width":250,"height":770},
+		{"id":"b335c0d6d7d27aa0","type":"text","text":"Chaotic","x":-1577,"y":-915,"width":250,"height":60,"color":"6"},
+		{"id":"909717fb20e508cc","type":"text","text":"Shadow","x":-1577,"y":-850,"width":250,"height":60,"color":"#000000"},
+		{"id":"ea62b8256da9485d","type":"text","text":"Blood","x":-1577,"y":-785,"width":250,"height":60,"color":"1"},
+		{"id":"9d6ab20697ee239a","type":"text","text":"Arcane","x":-1577,"y":-719,"width":250,"height":60,"color":"5"},
+		{"id":"aedee054ec054c4b","type":"text","text":"Fey","x":-1577,"y":-649,"width":250,"height":60,"color":"#8bfeb7"},
+		{"id":"991ec4730504e105","type":"text","text":"Lawful","x":-1577,"y":-981,"width":250,"height":60,"color":"3"},
+		{"id":"605ba7cbe5e48463","type":"text","text":"Draconic","x":-1577,"y":-1045,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[]
+}
