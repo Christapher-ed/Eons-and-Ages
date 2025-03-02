@@ -1,2 +1,0 @@
-
-Coxswain of the Virtues

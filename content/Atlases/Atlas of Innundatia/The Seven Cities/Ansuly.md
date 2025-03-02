@@ -1,1 +1,0 @@
-Virtue of Patience

@@ -1,2 +1,0 @@
-[[Driftwood Gnomes]]
-
