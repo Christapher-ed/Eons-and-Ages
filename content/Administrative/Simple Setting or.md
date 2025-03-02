@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Setting
 High Fantasy, 
 Tech as advanced as Ironclad ships, 

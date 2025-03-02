@@ -1,3 +1,6 @@
+---
+draft: true
+---
 (Their main goal is to blow up, and act like they don't know nobody) 
 
 Use the under side of the hall of the oracles snarl to release the elder dragons restrictions on magic to allow freer access to magic

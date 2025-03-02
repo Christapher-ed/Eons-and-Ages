@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Short History of the [[Elemental Shift Engine]], alongside rules for it, an arcane machine that can cast a sort of limited planeshift that transports one vehicle its attached to and any passengers. 
 
 Not used in most peoples daily lives, but revolutionary for our guild and society as a whole has been the Elemental Shift Engine. More, and more merchant, exploratory, and military vessels are being equipped with these, , and with a [[Planar compass]] to detect where the barriers weakest, they can travel between planes, to other material planes, Inner Planes, Nearer & Further outer ones and more.

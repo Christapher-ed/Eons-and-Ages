@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Major Realms
 ## [[The Prince-Archbishopric of Septea]]
 

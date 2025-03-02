@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 Honestly, mostly just use the D&D House Style guide but don't sweat the legalese/setting specific stuff
 https://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html

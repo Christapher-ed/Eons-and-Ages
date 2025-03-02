@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Human, middle aged, male, 5' 8" Bard, Silverquill  
 Arrogant, secretive, manipulative, lacks foresight on most things  
   

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Written/compiled by the Interplanar [[The Cartographers Guild]] 
 
 Current Date 3E 5A xx/xx/30

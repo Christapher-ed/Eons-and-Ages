@@ -1,3 +1,6 @@
+---
+draft: true
+---
 [Room One: Entrance And Guardian](https://www.roleplayingtips.com/5-room-dungeons/#t-1587038394549)
 
 [Room Two: Puzzle Or Roleplaying Challenge](https://www.roleplayingtips.com/5-room-dungeons/#t-1587038394550)

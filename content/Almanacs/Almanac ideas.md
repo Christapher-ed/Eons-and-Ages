@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ## Homebrew rules:
 Elemental Shift Engine, and navigation
 Group Magic/combo moves (tie to bastions?)

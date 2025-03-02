@@ -1,3 +1,6 @@
+---
+draft: true
+---
 We are surrounded by ruins (abandoned Kmarts, and Strip Malls) occasionally inhabitated by monsters (Spirit Halloweens, Squatters, w/e) unless guarded by some sort of government entity, (maybe an adventure where the guards of a city protect a ruin a bank foreclosed 100s of years ago, maybe even eons ago) or just unwanted
 
 In real life ruins are often used for building material or built on top of, but there are Ghost towns and abandoned fortresses 100s of years old as well

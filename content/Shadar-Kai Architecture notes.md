@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Matriarchal(ish) societies
 https://en.wikipedia.org/wiki/Minangkabau_people#Architecture
 https://en.wikipedia.org/wiki/Rumah_Gadang

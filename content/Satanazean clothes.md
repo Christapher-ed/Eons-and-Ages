@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Turbans/ headwear like this
 ![[Pasted image 20250220200845.png]]
 ![[Pasted image 20250220200902.png]]

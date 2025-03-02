@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Use pointyhat hexcrawl rules, maybe new DMG
 ## Introduction
 ### Session Description

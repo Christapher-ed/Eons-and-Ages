@@ -1,3 +1,6 @@
+---
+draft: true
+---
 - Send pael dreams of him torturing him and his bros souls twice, then one of Pael torturing his brothers soul, which Pael might see through
 - smilers small time wheeler and dealers equivalent to [[Nastros]]' Seers
 - accompanied by RGus torturer/poet and executioner of the court of [[Buriel]]

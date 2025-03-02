@@ -1,3 +1,6 @@
+---
+draft: true
+---
 The Tempus blade is the name of the magic weapon said to have belonged to [[Tiny Tempus]]
 # Properties of The Tempus Blade
 ## Properties under Chai First time

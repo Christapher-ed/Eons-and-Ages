@@ -1,3 +1,6 @@
+---
+draft: true
+---
 to be a good champion
 
 needs to withstand a lot of souls in him

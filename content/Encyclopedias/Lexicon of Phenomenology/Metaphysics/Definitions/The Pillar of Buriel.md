@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Contents of the pillar
 
  1. 5 dragon heads say something in Arcavian, their throats are slit, then in another in perfect infernal script

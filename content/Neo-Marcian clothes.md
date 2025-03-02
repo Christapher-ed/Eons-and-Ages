@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ![[Pasted image 20250221164103.jpg]]
 ![[Pasted image 20250221164140.jpg]]![[Pasted image 20250221164207.jpg]]
 ![[Pasted image 20250221164412.png]]

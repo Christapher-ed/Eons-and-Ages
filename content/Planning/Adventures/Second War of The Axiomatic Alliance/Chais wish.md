@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 W/e Chais wish, its enacted via rewinding. back to the first birth (possibly leaving that timeline doomed lol) then back forwards, stopping so Chai can change what he needs as the true [[Tempus Blade]]. 
 

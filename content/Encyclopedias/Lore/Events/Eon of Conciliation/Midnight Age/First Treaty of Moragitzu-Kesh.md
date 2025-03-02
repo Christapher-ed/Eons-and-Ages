@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 [[Moragitzu-Kesh]] an Alliance of two neighboring city states, that had become one, one of short stocky Urmen (Proto Dwarfs similar to chaos dwarves from Warhammer) under one of Elves descended from Shadar-Kai
 

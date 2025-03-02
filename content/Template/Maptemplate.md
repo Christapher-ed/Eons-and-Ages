@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ````
 ```leaflet  
 id: MapCalcExample ### Must be unique with no spaces  

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Year 3 Cold War
 - Council Meeting
 - ally with and arm neighboring villages

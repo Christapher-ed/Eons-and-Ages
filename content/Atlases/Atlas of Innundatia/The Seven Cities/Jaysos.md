@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Virtue of Charity
 
 Size: Large City 13 lines 16/18 citizens

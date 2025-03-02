@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Orcish Warrior god. 
 
 Elder scrolls Talos but an orc, and some WoW Thunder King

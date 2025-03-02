@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ```statblock
 layout: Basic 5e Layout
 image: Cuelebre.png

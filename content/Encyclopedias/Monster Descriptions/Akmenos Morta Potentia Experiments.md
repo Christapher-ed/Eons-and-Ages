@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 
 [[Akmenos]] uses names in Infernal, Arcavian Common (in literal and less literal translations), and Mechanus notation

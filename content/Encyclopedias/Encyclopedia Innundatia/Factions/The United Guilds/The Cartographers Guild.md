@@ -1,3 +1,6 @@
+---
+draft: true
+---
 The Cartographers Guild of Septea of The Opposing Isles on the Elemental Moon of Innundatia was founded by [[Jeremius the mapper.]]
 
 

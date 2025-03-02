@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Tone
 No Good & Evil , just greater and lesser evils.
 Absolute power corrupts absolutely

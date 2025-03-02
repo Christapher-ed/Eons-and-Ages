@@ -1,3 +1,6 @@
+---
+draft: true
+---
 https://writer.com/guides/style-guide/#mission_and_audience
 # Introduction
 ## Project overview

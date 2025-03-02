@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 # [[First Birth]]
 # Age (1) 

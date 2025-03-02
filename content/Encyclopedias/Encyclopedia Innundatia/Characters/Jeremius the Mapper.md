@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 Jeremius the Mapper, was a sailor in the early years of [[The Prince-Archbishopric of Septea]]s expanison eventually captaining his own ship. Jeremius would go on to chart much of the area around [[Atlases/Atlas of Innundatia/The Opposing Isles]], and many of Septea's future colonies, he also made first contact with [[The Court of Hy-Brasil]],[[The Earthern Alliance]], and [[The Neo-Marcian Empire]]. After his retirement he founded [[The Cartographers Guild]], passing down his talents for generations to build on, as sea transit became more viable the guild began to include those who used the maps: diplomats, couriers, merchants, and adventurers becoming: The Guild League of Cartographers, Diplomats, Couriers, Merchants, Mercenaries, Sailors, Adventurers, and all who trot the Globe. One of the Dominant guilds in [[The United Guilds]].
 

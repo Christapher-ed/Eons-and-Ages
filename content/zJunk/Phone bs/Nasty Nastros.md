@@ -1,3 +1,6 @@
+---
+draft: true
+---
 - times he met Tempuses
 - obsession with time and wanting to see all of it 
 - discovery of the pillar of [[Buriel]], and study of it

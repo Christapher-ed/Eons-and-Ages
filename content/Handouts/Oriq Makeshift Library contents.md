@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Common Arcavian
 1. Abyssal Arcavian to Common Arcavian dictionary, and grammar textbook (can be  used to translate books in Abysall Arcavian, after translating 3 books learning the language)
 2. Admonishment of the Tyrant Founders (A former mage of the Axiomatic Alliance disillusioned by the Founders new "order" describes how destructive the founding was, destroying the ancient Loxodon city of Zantafar. The mage also describes how the Axiomatic Alliance worked with the Archdevil [[Buriel]])

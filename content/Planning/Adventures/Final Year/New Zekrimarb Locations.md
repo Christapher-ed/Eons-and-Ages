@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ## Mortals will always have a place in hell
  [drata](https://la-lojban.github.io/sutysisku/lojban/index.html#seskari=cnano&sisku=drata&bangu=en&versio=masno) [cabna](https://la-lojban.github.io/sutysisku/lojban/index.html#seskari=cnano&sisku=cabna&bangu=en&versio=masno) Zekrimarb means literally, new to the observer but concurrent to Zekrimarb. Aka New Zekrimarb is the name given to the newly conquered Center of the universe, and the city its magic revolves around.
 # Throne of Buriel The Dragon Tyrant of Time

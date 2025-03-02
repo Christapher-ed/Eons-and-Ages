@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 Aka Eon of [[Six Empires, and the Unnatural Planes]]
 

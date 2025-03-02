@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ![[Moragitzu-Kesh 1.png]]
 
 The City State of Moragitzu Kesh Began as two, Moragitzu, and Kesh. Moragitzu deep in a valley between Kesh and the mountains full Urmen, mostly of the short stocky variety, fill the massive caves that dot the valley. Kesh a Venerable fortress city, but equally a bastion of knowledge, and Faith overlooked the canyon.

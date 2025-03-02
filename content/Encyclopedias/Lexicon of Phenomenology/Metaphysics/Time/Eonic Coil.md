@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ![[Time Coils 1.png]]
 The Eonic Coil is the infinite loop of time, the entire stretch of the setting of Eons and ages. Comparable to [[Eonic Cycle]]
 

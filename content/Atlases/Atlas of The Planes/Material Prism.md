@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ![[Material Prism.png]]
 # Big ones left to right 
 ## Planet 1

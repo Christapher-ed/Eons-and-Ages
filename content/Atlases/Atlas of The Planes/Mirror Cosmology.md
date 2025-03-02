@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Early Theoretical mapping
 ![[MirrorLazerCosmology.png]]
 # Later Official Mapping 

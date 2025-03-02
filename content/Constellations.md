@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Constellations, are collections of interconnected demi-planes inhabited by hero's or groups of hero's, and those who sought, and succeeded in. The ones the months are named after are the only ones from the last eon.
 # List of Septean Constellations
 The Septean Constellations, formalized by the [[the cartographers guild]], are born out of a deep nautical tradition

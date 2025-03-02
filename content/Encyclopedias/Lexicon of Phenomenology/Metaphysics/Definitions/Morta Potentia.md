@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Aka Elemental Life/Arcane magic, or "Mana" 
 
 

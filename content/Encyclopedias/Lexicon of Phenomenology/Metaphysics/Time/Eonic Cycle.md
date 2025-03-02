@@ -1,3 +1,6 @@
+---
+draft: true
+---
 An Eon is a cycle of epic poetry that makes up the infinite poem of the Eonic Cycle comparable to the [[Eonic Coil]]
 # Mythic-Poetic Structure
 (Elemental Planes always existed)

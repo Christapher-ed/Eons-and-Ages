@@ -1,1 +1,4 @@
+---
+draft: true
+---
 An Empire with a shared history with [[The Prince-Archbishopric of Septea]] and a desire to conquer their lands. Formed out of remnants of [[The Marcian Empire]] in its former high mountain peaks, which formed the [[Neo-Marcian Archipaleagio]]. Militaristic, and with Devil military advisors, they will stop at nothing to restore their former glory. Led by a Diarchy of a externally focused Imperator, and a internally focused Dictator, both appointed by a Senate of noble Patriarchs of Neo-Marcia. The whole empire centered around the city of [[Neo Marcia]], on its seven islands.

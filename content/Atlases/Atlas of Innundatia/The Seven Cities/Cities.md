@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Cyodue:
 Age: 1094 years/Aged
 Size: Metropolis

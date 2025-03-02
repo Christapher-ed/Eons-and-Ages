@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Lorehold Devil aligned
 ## Order - Nastros
 Devil

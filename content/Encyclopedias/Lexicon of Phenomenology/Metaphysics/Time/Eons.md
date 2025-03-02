@@ -1,3 +1,6 @@
+---
+draft: true
+---
 A Layer of a coil with 5 coils within it connected to the next coil by tape
 
 (Elemental Planes always existed)

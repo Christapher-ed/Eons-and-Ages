@@ -1,3 +1,6 @@
+---
+draft: true
+---
 "Save points"- where the party can long rest in a bubble outside time as a battle from long ago plays out in front of them.
 
 Chai will open them with his time powers, everyone else will bounce off of them, and maybe feel a slight shock

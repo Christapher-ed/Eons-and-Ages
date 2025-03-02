@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 One of the most well equipped forces in Inundatia, using glowing gold muskets and plater armor. These warriors answer only to the Archbishop of Septea. More and more these former guards of pilgrims and holy places are becoming [[Prince-Archbishop Maximus IX]]'s personal enforcers. 
 

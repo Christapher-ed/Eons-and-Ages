@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Setting name
 ## Eons and Ages?
 ## Eons and Mirrors?

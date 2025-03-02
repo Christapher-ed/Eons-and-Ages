@@ -1,3 +1,6 @@
+---
+draft: true
+---
 The Cartographers Guild of Septea of The Opposing Isles on the Elemental Moon of Innundatia was founded by [[Jeremius the mapper.]]
 
 Eventually became: The Guild League of Cartographers, Diplomats, Couriers, Merchants, Mercenaries, Sailors, Adventurers, and all who trot the Globe. Most people continue to call the whole guild The Cartographers Guild, and consider the rest branches

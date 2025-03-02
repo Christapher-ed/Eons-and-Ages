@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ## Districts
 
 | District           | Population | Year Founded                                                            | Landmarks                                                |

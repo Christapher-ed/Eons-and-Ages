@@ -1,3 +1,6 @@
+---
+draft: true
+---
 **Eon 0**
 
 ???X???=Perception

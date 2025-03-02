@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Use Interplanar law to subvert the inherent duality in [[Arcaos]] via Teachers planted centuries ago after assisting in the Ordering of [[Arcaos]]. All in the service of binding Strixhaven to his wandering domain in hell, giving him both a huge variety of Interplanar gateways to use at his pleasure, as well as all the power the Snarls provide.
 
 [[Nastros]] plans to use the CEC to take control of the student body, an army of hall monitors slowly turning fiendish. [[Buriel]] and the rest of his minions will use them as the muscle to take over the school.

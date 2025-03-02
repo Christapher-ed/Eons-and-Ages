@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Greymoore
 Size: Small City 9 lines 0 citizens
 Age: Grown 10 dev phases

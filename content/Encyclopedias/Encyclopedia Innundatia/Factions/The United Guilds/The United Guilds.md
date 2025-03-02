@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Officially: The Grand Septean League of United Guilds
 
 An alliance of guilds notorious for bickering, and conspiring against each other. The only thing they hate more than each other is non league members trying to operate in their waters, or their cities. 
