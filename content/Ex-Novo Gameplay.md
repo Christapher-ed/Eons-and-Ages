@@ -204,7 +204,7 @@ Factions:
 Naturalists-0
 Watershed of Charity-0
 External:
-Cyodue Merchants-1
+[[Cyodue]] Merchants-1
 
 Timeline:
 Turn 1
@@ -237,7 +237,7 @@ Gold found in hills used to build big statue of the virtue of charity
 Guserton founded
 Turn 8
 262 A Useful neighbor
-Prince Bishopric of Cyodue Buy water from city
+Prince Bishopric of [[Cyodue]] Buy water from city
 Trade District founded
 Turn 9
 616 Natural Catastrophe
@@ -260,4 +260,4 @@ Turn 13
 Destroy MArtyr Bridge
 Grow Final Creekland
 Turn 14
-Cyodue Merchants buy out Geyser in the chaos
+[[Cyodue]] Merchants buy out Geyser in the chaos

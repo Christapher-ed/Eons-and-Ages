@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Mechanical purposes meeting: Locations, Monster Statblocks(Frog Dogs, and Cuelebre, Enchanted Mouras?), maybe mini dungeon
 # History

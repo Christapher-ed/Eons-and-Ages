@@ -3,7 +3,7 @@ draft: true
 ---
 ![[Screenshot 2025-02-14 213040.png]]
 
-# The Commercial Adventurers Mutual Accident Association of Septea, Cyodue
+# The Commercial Adventurers Mutual Accident Association of Septea, [[Cyodue]]
 ## ELIGIBLE FOR MEMBERSHIP
 diplomats, couriers, merchants, mercenaries, sailors, and adventurers.
 ## ADVENTURING NOT NECESSARY

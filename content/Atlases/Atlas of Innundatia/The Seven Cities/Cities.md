@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-Cyodue:
+[[Cyodue]]:
 Age: 1094 years/Aged
 Size: Metropolis
 

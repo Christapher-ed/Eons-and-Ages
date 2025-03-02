@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Officially: The Grand Septean League of United Guilds
 

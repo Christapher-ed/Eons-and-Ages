@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ```statblock
 layout: Basic 5e Layout
