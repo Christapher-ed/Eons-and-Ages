@@ -1,0 +1,9 @@
+- times he met Tempuses
+- obsession with time and wanting to see all of it 
+- discovery of the pillar of [[Buriel]], and study of it
+- once he gets Bella/ Chais time power sends pillar back through time corrupting the beast
+- also contracts between him Akmenos, and Cupriel with Buriel. 
+- make Bella into a time machine Nastros will use to forge documents by getting them from futures where they exist
+- A copy of a contract between buriel and asmodeus granting him a legal claim to invade the material plane as an archduke equal to the lords of hell, and vizier/viceroy/regent to asmodeus
+- may prepare to invade time itself
+- 
