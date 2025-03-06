@@ -1,0 +1,2 @@
+![[Pasted image 20250305213608.png]]![[Pasted image 20250305213648.jpg]]![[Gallywix%27s_Yacht_docked.webp]]![[Pasted image 20250305213820.jpg]]![[Pasted image 20250305214116.jpg]]![[Pasted image 20250305214128.jpg]]
+Shallows Gnomes use windpowered magitech water tankers designed to move in as shallow water as they can. Will often be parked in the bays of cities suffering droughts to price gouge them.

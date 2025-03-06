@@ -1,0 +1,8 @@
+- Finnish/rus earthen alliance dwarves? What ziggurat pyramids based on
+- more jeremius stories
+- another major nation or make earthen alliance more involved in geopolitics(both?) 
+- hard fantasy 
+- more shifting islands
+- organize almanac stuff 
+- Dino plants for Dino dinos 
+- structure of neomarcia neo Marcia alpine gaulo-roman +every "third rome" With some Byzantine elements (similar senate, greek fire) led by a Tsar? 
