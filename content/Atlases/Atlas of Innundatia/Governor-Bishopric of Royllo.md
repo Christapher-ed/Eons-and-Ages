@@ -4,6 +4,17 @@ draft: false
 
 # Stats:
 
+F=Faction R=Recourse
+
+| District           | Population | Year Founded                                                            | Landmarks                                                    |
+| ------------------ | ---------- | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Royllo City Center | 5522       | 502 (merger of Founders Harbor (300) and The Cathedral (374) districts) | Blazquez Harbor, Cathedral Royllo(F)                         |
+| Secondport         | 1641       | 610                                                                     | Secondport Sawmill(R)                                        |
+| Fort Maximus       | 1263       | 502 (recognized in 552)(formerly Hills District)                        | Fort Maximus, Humilities Roost(R)                            |
+| Royllan Woods      | 212        | 422                                                                     | Regional Guildhall for [[The League of the Wooded Cove]] (F) |
+| Greater Royllo     | 112        | N/A                                                                     | Frog Dog Ranches (R)                                         |
+
+
 **Pop by district**
 Royllan Woods: 212
 Royllo City Center: 5522
@@ -47,7 +58,7 @@ Guilds begin taking over economy (some Royllan Frogdog ranchers join the  Guild 
 **Year 643**
 Royllo becomes most prominent city after the Seven cities
 **Year 693**
-Royllo participates in a series of raids on [[The Satanazes]] a unit of [[The Humble Guard]] set up in Fort Maximus, building a roost/skyport to base their Cuelebre riders out of +2 power
+Royllo participates in a series of raids on [[The Satanazes]] a unit of [[The Virtuous Guard]] set up in Fort Maximus, building a roost/skyport to base their Cuelebre riders out of +2 power
 **Year 760**
  Shortage of rope, and increased demand from the cuelebres cause the fish to be used up
 **Year 809**
@@ -60,7 +71,7 @@ Old Families take Fort Maximus, convince the local Humble Guard, via the guild o
 Sawmills increase efficiency of Logging
 **Year 1009**
 An old Governor-Bishop, the first Blazquez one, declared a saint, and Royllo declared: First among Governor-Bishoprics
-**Year 1011**
+**Year 1081**
 Modern day
 # Districts
 **Royllan Woods:** Founded in 422 around the guild of the wooded cove guildhall. Doubles as a bank, and nerve center for Logging outside of Septea.
@@ -78,7 +89,7 @@ Headquarters of [[The League of the Wooded Cove]] in Royllo. Squad of humble Gua
 **Fort Maximus**
 Built after a attempted revolt by the old families to suppress them, since the Blazquez revolution become a monument to the cities history and founding families. 
 **Humilities Roost**
-Where the [[The Humble Guard]] set off for patrol on, maintain, raise, and tame [[Culelebres]].
+Where the [[The Virtuous Guard]] set off for patrol on, maintain, raise, and tame [[Culelebres]].
 **Sawmill**
 almost a second headquarters to [[The League of the Wooded Cove]], one of the most efficient sawmills in Septea.
 **Frog Dog Ranches**

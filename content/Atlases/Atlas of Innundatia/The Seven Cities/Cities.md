@@ -2,7 +2,7 @@
 draft: true
 ---
 [[Cyodue]]:
-Age: 1094 years/Aged
+Age: 1000 years/Aged
 Size: Metropolis
 
 Ansuly:
@@ -23,3 +23,9 @@ Age: 1000 years/Aged
 
 Vra:
 Age: 1000 years/Aged
+
+Church of The Seven Virtues:
+Age: Elderly
+Size: small city
+
+
