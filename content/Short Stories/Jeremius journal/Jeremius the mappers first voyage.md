@@ -67,16 +67,41 @@ I climbed the rigging at the front mast, and swung to the ship in the front, cut
 
 I floated in the water, unable to move and to this day I dont really know why. I didn't sink just floated, as the mix of salt water and blood sat in my mouth with the rigging knife. Eventually the waves lapping at me got the better of me and everything went dark, as my pantleg unhooked from the ships wreckage and I felt something grab under my armpits.
 
-I woke up with my cheek stitched the rigging knife sheathed beside me, and the ship surgeon looking at me
+I woke up with my cheek stitched the rigging knife sheathed beside me, and the ship surgeon looking at me, "My boy, that was quite the maneuver, you'll want to rest a little longer, but when your done the captain will probably want to see you, oh and the Quartermaster said you could keep his rigging knife"
 
+I closed my eyes a little longer, but next I woke up I felt pretty decent, it had been dark the first time and light now but it couldn't be that late. I got up and went to the upper decks to see I was back in my home city Cyodue, on the captains coast near raft city. 
+
+I ran into the Navigator and Captain, who congratulated me on getting out of there the Captain insisting he had it under control but appreciated my pluck. They told me we'd be here a few days to resupply and get some cargo for Royllo, so I worked more on those world maps, and on one of the bay, and some rough stuff from memory of Saragozy. 
+
+Eventually a small boat came out to us, quiet people I didn't recognize from raft city area. They began unloading boxes onto our ship that we loaded, metallic clanks, they were unmarked except for a few simple symbols a straight line, a smaller straight line, a curved line then larger and smaller boxes. We loaded it to the brim, some under some of our hammocks meaning we'd have to sleep on top of em.
+
+Not long after we left my Cyodue for the second time in my life, I hoped to leave Cyodue again soon, maybe next time I'll make sure to tell my family I'm alright. The trip to Royllo was short and uneventful, I continued working on the ship at day working on maps and learning from The Navigator at night. 
+
+We off the coast of Royllo, but around the bay near the valley that flanks the Hills Districts west side instead of at the harbor, we disembarked rowing the cargo to shore. Me the captain, all the officers and some more crew met with a band of tough looking fishers introduced themselves, "I'm Anthony Blasquez, representing the old families," "Nice to meet ye anthony, we got just what you ordered," the captain said signalling the Quartermaster to open the box marked by the long line, revealling a shipment of muskets that Anthony Blazquez began to examine.
+
+"Nice nice, and have ye considered the mercenary contract," "Aye we'll fight by yer side if ye'll really pay what I asked for," Anthony Gestured to two fisherman one carrying a large bag one an even larger, something in the captains eyes flashed and scared me. On the way back I asked him what if some of us didn't want to fight, to which he told me, "Then they'll fight son, remember I'm the Captain, yer just a bilgerat stowaway we took in cause ye amused me,"
+
+We headed back to the ship, the captain arming us with the equipment everyone uncertain about this, we were sailors not fighters, not mercenaries, we weren't afraid to defend ourselves but this was different. I couldn't sleep that night, I went up to the top deck to think when I heard a commotion.
+
+I went over to the rowboats where I saw The Captain getting it ready to leave with the ships chest, and the bags of money we got for the weapons and mercenary shipment, like he was trying to abandon us. "Wa-What are you doing cap'n" The Captain suprised looked at me, "Oh uh im just taking these to cash in at the bank, more secure that way you know" 
+"The ships chest too? Don't you need the Quartermasters key to open it?"
+"Oh I suppose so, but surely they have some sort of master key"
+"Cap what would the crew think if you abandoned them?" I put my hand on the pistol he'd given me
+The Captains demeanor changed from appeasement to intimidation, "So what if I were, what if I want to take the money I spent decades honing my craft as a merchant, a sailor, a smuggler, a captain," He stood up in the rowboat and began getting out, "They'd still respect me, they'd just wish they could've done the same." I pulled the pistol as he came towards me, and my finger slipped pulling the trigger with no resistance but instead of firing a projectile at the captain it exploded in my hand mangling it, "You imbecile, think I wouldn't cut corners, the drugs I sold in Saragosy where mostly sawdust too, thats how you get the big bucks," I stumbled backwards as he came towards me lifting his cutlass as I pulled out my rigging knife with my left, non mangled, hand, and lifted it towards him turning away, muttering "I-I didn't mean too my finger slipped captain, I swear" "Remember son, I'm the Captain, yer just a bilgerat stowaway, alive by the grace and luck that I have not decided to kill you till no-" his foot hooked on something and he fell on me, throat straight into my knife, I got slightly knicked by his cutlass but him falling on me, and the emotions filling me hurt more.
+
+I shoved the captain on his back and as I heard people waking up, pulled the knife out, and hopped in the other rowboat, leaving the coins in the one the captain intended to take. Luckily we'd been sleeping with our packs, expected to deploy to the shore first thing in the morning and stay there until the city was captured, I had most of my stuff, as I rowed to the docks and tried to disappear into the crowds.
+
+I looked the next morning and the ship was gone, later I heard a failed uprising led by The Blazquez family was foiled by faulty equipment, and the local Governor-Bishopric cracked down on them even harder, something about a family rivalry predating the city.
 
 **Planning**
+(Make longer, like years longer, timeskip near the start? After Royllo)
+
 (Mentoring by other Officers and crew name some crew but no officers so its ambiguous if they're manifestations of the virtues or w/e)
 
-(What cool stuff on Saragosy)
+~~(What cool stuff on Saragosy)~~
 
-(Get trapped, have Jeremius sneak over, set other ship to full sail swing back get ship free)
+~~(Get trapped, have Jeremius sneak over, set other ship to full sail swing back get ship free)~~
 
-(Cyodue, Jaysos, Royllo, Paldriean colony(proto greymoore)to get psychadelics to sell, at Saragosy, then to Cyodue  buy guns, to Royllo to arm rebels)
+~~(Cyodue, Jaysos, Royllo, Paldriean colony(proto greymoore)to get psychadelics to sell, at Saragosy,~~ then to Cyodue  buy guns, to Royllo to arm rebels)
 
-Jeremius betray captain, become national hero? on accident? feel bad? Only cares about mapping so maybe not (for putting profit over the crew)
+Jeremius betray captain, become national hero? on accident? feel bad? Only cares about mapping so maybe not (for putting profit over the crew, abandoning the crew to run away with the money leaving them to fight with faulty equipment)
