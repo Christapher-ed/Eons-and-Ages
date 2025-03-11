@@ -91,5 +91,3 @@ After the party, both courts moved to Hy-Brasil, and The Hobroys fortress became
 Eventually Hy-Brasil returned to the material. The Morrigan, and The Hobroy gifted the remaining crew, some fairies who wished to come with us and I: A recreated version of my old ship, as well as riches upon riches. Gold, statuettes of ourselves, gems you name it our ship was stocked to the brim.
 
 We hurried out before spending another 7 years in this land where time doesen't quite exist. Once we got to a port we began to split our riches, I would eventually turn mine as well as some pooled from the crew to found The Cartographers Guild. We've been passing our knowledge and stories down ever since.
-
-**
