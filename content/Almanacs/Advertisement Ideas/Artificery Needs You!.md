@@ -1,4 +1,4 @@
 ---
 draft: true
 ---
-Gek pointing at viewer![[image.png]]
+Gek pointing at viewer![[image 1.png]]

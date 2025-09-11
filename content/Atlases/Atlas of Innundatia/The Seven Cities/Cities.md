@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-[[Cyodue]]:
+[[Prince-Bishopric Cyodue]]:
 Age: 1000 years/Aged
 Size: Metropolis
 

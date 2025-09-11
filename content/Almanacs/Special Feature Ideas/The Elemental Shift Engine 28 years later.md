@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Short History of the [[Elemental Shift Engine]], alongside rules for it, an arcane machine that can cast a sort of limited planeshift that transports one vehicle its attached to and any passengers. 
 
@@ -11,7 +11,7 @@ Since then new trade routes have excited merchants, given new meaning to cartogr
 
 To Cartographers it has strengthened our drive to map the planes, all the new routes and tricks through them, and to the best of our ability document them. While the guild does not produce many Elemental engines, as the main supplier of Planar compasses, and patent holder for both, is able to negotiate deals for members to get their own private ones.
 
-The Military of [[The Prince-Archbishopric of Septea]] under [[Prince-Archbishop Maximus IX]], had already been growing in number and strength turning [[The Humble Guard]] into a branch of The Septean Military, now has equipped their airships with Elemental Shift Engines. Supported by the new Septean Skyguard ensure defense of Septean Colonies and Trade routes.
+The Military of [[The Prince-Archbishopric of Septea]] under [[Prince-Archbishop Maximus IX]], had already been growing in number and strength turning [[The Virtuous Guard]] into a branch of The Septean Military, now has equipped their airships with Elemental Shift Engines. Supported by the new Septean Skyguard ensure defense of Septean Colonies and Trade routes.
 
 The operation of Elemental Engines can be anywhere from straightforward to incredibely complicated, depending on the model. In the most basic sense a Elemental Shift Engine, uses elements in the engine to connect to ambient elemental energy (usually whatevers strongest) to teleport to that plane or through it to another. More complicated ones have more control, able to travel through elemental to outer and back in another part of the sea. 
 

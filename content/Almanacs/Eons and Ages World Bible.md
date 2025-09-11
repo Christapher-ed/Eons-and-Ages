@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 # Tone
 No Good & Evil , just greater and lesser evils.
@@ -96,7 +96,7 @@ While Technically Atheistic, Dwarves have series of pseudo religious Civic pract
 ### Ur-ur Cults
 
 ## Inundatia
-### [[The Virtues]]
+### [[The Crew of The Absolute]]
  gods of Septea, who lead their people to the [[Encyclopedias/Encyclopedia Innundatia/The Opposing Isles|The Opposing Isles]] to survive the flood
 ### [[The Earthern Alliance]]
 While like The Mountain Dwarves of Arcaos Atheistic, Members of [[The Earthern Alliance]] practice something like [[The Dwarven Ancestor Registry]], but with a focus on Elemental Earth

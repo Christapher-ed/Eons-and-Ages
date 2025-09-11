@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 An **almanac** is a regularly published listing of a set of current information about one or multiple subjects.

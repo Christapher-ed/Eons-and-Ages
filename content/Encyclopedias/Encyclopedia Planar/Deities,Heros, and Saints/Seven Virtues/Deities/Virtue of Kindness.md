@@ -1,4 +1,4 @@
 ---
 draft: true
 ---
-The Virtues Navigator Patron of The [[The League of Stars]]
+The Virtues Navigator Patron of The [[The League of the Stars]]

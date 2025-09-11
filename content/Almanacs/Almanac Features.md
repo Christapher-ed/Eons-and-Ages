@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 
@@ -66,7 +66,7 @@ Big Multiple page articles, Full mini adventures, and Dungeons, homebrew rules, 
 Features that always have one page or more of space, grouped into sections, and or paired. Mechanically smaller in scale
 
 ## Articles
-Ideas: Saints relics that can be used to ask that saint for advice. a stone in a bag that gets progressively hotter out of it.
+
 ### Components
 
 | Component       | Description                                                           |

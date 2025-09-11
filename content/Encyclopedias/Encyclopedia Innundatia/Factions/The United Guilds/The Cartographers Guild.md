@@ -5,7 +5,7 @@ The Cartographers Guild of Septea of The Opposing Isles on the Elemental Moon of
 
 
 
-Navigators often join the Cartographers Guild as well as the [[The League of Stars]]
+Navigators often join the Cartographers Guild as well as the [[The League of the Stars]]
 
 The Cartographers Guild Endeavors to not only map all material, and immaterial planes, but time and space itself.
 

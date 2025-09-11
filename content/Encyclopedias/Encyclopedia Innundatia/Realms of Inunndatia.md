@@ -4,7 +4,7 @@ draft: true
 # Major Realms
 ## [[The Prince-Archbishopric of Septea]]
 
-The Government of the Isle of [[Septea]] founded after the Great Flood by the Seven Pilgrims, also religious leaders of [[The Church of the Virtues]] the primary religion of [[Septea]] , each of its famed seven cities being claiming a different member of [[The Virtues]] as a patron, and hosting their Cathedral there, with the Grand Church of the Seven acting as the religious capital.
+The Government of the Isle of [[Septea]] founded after the Great Flood by the Seven Pilgrims, also religious leaders of [[The Church of the Virtues]] the primary religion of [[Septea]] , each of its famed seven cities being claiming a different member of [[The Crew of The Absolute]] as a patron, and hosting their Cathedral there, with the Grand Church of the Seven acting as the religious capital.
 
 ### [[The United Guilds]]
 

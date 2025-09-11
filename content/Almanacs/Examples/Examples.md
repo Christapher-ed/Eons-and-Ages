@@ -17,7 +17,7 @@ Statblocks:
 [[Humble Guard Commander]]
 
 Dungeons:
-[[Ancient Valley Barrow]]
+[[Ancient Valley Barrow (Midsummer Festival)]]
 
 Magic items:
 [[Hot Stone]]

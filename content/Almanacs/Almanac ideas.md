@@ -3,7 +3,7 @@ draft: true
 ---
 ## Homebrew rules:
 Elemental Shift Engine, and navigation
-Group Magic/combo moves (tie to bastions?)
+Group Magic/combo moves (tie to bastions?)(constellations/time of year?)
 
 ## Subclass ideas:
 Artificer: monster wildshape type thing

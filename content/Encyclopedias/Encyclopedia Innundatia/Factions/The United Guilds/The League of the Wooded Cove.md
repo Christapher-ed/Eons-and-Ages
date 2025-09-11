@@ -1,7 +1,7 @@
 ---
-draft: false
+draft: true
 ---
-The League of the Wooded Cove is one of the more dominant members of [[The United Guilds]] having a monopoly on the worlds largest supply of wood. Using resin from [[The League of Stars]] they mint [[Septean Log Coin]]s, and are capable of exchanging them for their proper value in lumber.
+The League of the Wooded Cove is one of the more dominant members of [[The United Guilds]] having a monopoly on the worlds largest supply of wood. Using resin from [[The League of the Stars]] they mint [[Septean Log Coin]]s, and are capable of exchanging them for their proper value in lumber.
 
 includes: Loggers, specialized carpenters/minters, bankers, merchants
 

@@ -1,10 +1,12 @@
 ---
 draft: false
 ---
-
+# Map
+![[Governor-Bishopric of Royllo2.png]]
 # Overview
 
 F=Faction R=Resource
+
 
 | District           | Population | Year Founded                                                            | Landmarks                                                    |
 | ------------------ | ---------- | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
